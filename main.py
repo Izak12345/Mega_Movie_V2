@@ -2,7 +2,7 @@
 
 
 # ----------variables go here----------
-valid = str("")
+valid = str("hi")
 
 
 # ----------functions go here----------
